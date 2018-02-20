@@ -1,0 +1,8 @@
+build
+node_modules
+coverage
+*.log
+*.ldif
+*.tar.*
+*.tgz
+.DS_Store
